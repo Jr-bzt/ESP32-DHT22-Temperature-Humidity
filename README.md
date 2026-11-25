@@ -9,6 +9,7 @@ ESP32 AIoT demo, read temperature and humidity data by DHT22
 - DHT22 温湿度传感器
 - 杜邦线
 
+
 ## 接线参考
 | DHT22 | ESP32 |
 |-------|-------|
